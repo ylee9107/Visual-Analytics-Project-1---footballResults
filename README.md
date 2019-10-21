@@ -27,6 +27,6 @@ Some of the techniques applied in Tableau here are:
 
 The following shows the visualisations for Task 1 and 2.
 
-![Task 1 Dashboard](https://github.com/ylee9107/Visual-Analytics-Project-1-footballResults/blob/master/Visualisations/Task%201.1%20Recent%20Games.png){:class="img-responsive"}
+![Task 1 Dashboard](https://github.com/ylee9107/Visual-Analytics-Project-1-footballResults/blob/master/Visualisations/Task%201.1%20Recent%20Games.png)
 
-![Task 2 Dashboard](https://github.com/ylee9107/Visual-Analytics-Project-1-footballResults/blob/master/Visualisations/Task%202.3%202000.png){:class="img-responsive"}
+![Task 2 Dashboard](https://github.com/ylee9107/Visual-Analytics-Project-1-footballResults/blob/master/Visualisations/Task%202.3%202000.png)
